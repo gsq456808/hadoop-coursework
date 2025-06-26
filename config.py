@@ -85,4 +85,4 @@ LOGGING_CONFIG = {
     "level": "INFO",
     "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
     "log_file": OUTPUT_DIR / "analysis.log"
-}
+}    
